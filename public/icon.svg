@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#18120E" />
+  <circle cx="256" cy="276" r="168" fill="#EA580C" fill-opacity="0.16" />
+
+  <!-- Flame underneath wok -->
+  <path
+    d="M256 416C205 416 172 374 186 326C195 294 228 271 237 234C265 262 279 290 279 318C293 304 302 286 302 267C330 300 339 336 325 370C312 402 288 416 256 416Z"
+    fill="#EA580C"
+  />
+  <path
+    d="M256 402C228 402 214 379 223 351C228 332 247 318 251 299C265 318 274 336 270 355C279 346 284 336 284 327C298 346 302 369 288 388C279 398 270 402 256 402Z"
+    fill="#FBBF24"
+  />
+
+  <!-- Wok handles -->
+  <path d="M96 226L134 242M378 242L424 218" stroke="#F59E0B" stroke-width="18" stroke-linecap="round" />
+
+  <!-- Cast-iron Wok bowl -->
+  <path
+    d="M126 242C126 308 184 352 256 352C328 352 386 308 386 242H126Z"
+    fill="#292524"
+    stroke="#FAF8F5"
+    stroke-width="14"
+    stroke-linejoin="round"
+  />
+
+  <!-- Spatula (Sodet) -->
+  <path d="M308 118L252 234" stroke="#E7E5E4" stroke-width="14" stroke-linecap="round" />
+  <path d="M294 94L332 112L318 140L280 122L294 94Z" fill="#F59E0B" />
+
+  <!-- Steam accents -->
+  <path d="M188 184C182 164 196 148 190 128" stroke="#FAF8F5" stroke-opacity="0.7" stroke-width="10" stroke-linecap="round" />
+  <path d="M236 168C230 148 244 132 238 112" stroke="#FAF8F5" stroke-opacity="0.85" stroke-width="10" stroke-linecap="round" />
+</svg>

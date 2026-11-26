@@ -1,0 +1,6 @@
+{
+  "name": "Dapur Wajan",
+  "description": "Game memasak warung Nusantara interaktif dengan simulasi wajan 60fps, talenan, resep khas Indonesia, dan manajemen pesanan pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
